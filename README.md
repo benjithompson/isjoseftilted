@@ -1,5 +1,5 @@
 # isjoseftilted
-yes, yes he is.
+Yes. Yes he is.
 
 ## Site 
 hosted via gh-pages branch
